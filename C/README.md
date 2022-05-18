@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LAST DIGIT
 
 ![](https://img.shields.io/badge/snippet-c-green)
